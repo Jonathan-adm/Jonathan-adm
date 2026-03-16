@@ -1,16 +1,20 @@
-## Hi there 👋
+⚡ JONATHAN | Developer Profile
 
-<!--
-**Jonathan-adm/Jonathan-adm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer em evolução
+⚔️ Skills
 
-Here are some ideas to get you started:
+🐍 Python
+🌐 JavaScript
+🗄️ SQL
+☕ Java
+⚙️ C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo
+
+Me tornar um desenvolvedor profissional, criando projetos e aprendendo novas tecnologias.
+
+🌎 GitHub
+
+https://github.com/Jonathan-adm
+
+⭐ Sempre aprendendo e evoluindo na área de tecnologia.
